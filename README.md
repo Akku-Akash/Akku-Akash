@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India.A highly dedicated , self motivated  and passionate person in coding and problem solving . Currently working on HTML, CSS and JavaScript. Additionally, I have extensive knowledge and experience in  React js, Redux, Node js, Express js, MongoDb, Git and github and strong practice in Data Structure and Algorithms.
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akku-akash&label=Profile%20views&color=0e75b6&style=flat" alt="akku-akash" /> </p>
 
